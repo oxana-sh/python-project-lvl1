@@ -3,4 +3,4 @@ __pycache__
 dist/
 *.pyc
 .venv/
-oxana_sh_brain_games.egg-info
+.oxana_sh_brain_games.egg-info/
